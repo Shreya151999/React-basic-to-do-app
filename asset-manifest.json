@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-basic-to-do-app/static/css/main.a47d2e57.chunk.css",
+    "main.js": "/React-basic-to-do-app/static/js/main.d01eeb40.chunk.js",
+    "main.js.map": "/React-basic-to-do-app/static/js/main.d01eeb40.chunk.js.map",
+    "runtime-main.js": "/React-basic-to-do-app/static/js/runtime-main.d3429c89.js",
+    "runtime-main.js.map": "/React-basic-to-do-app/static/js/runtime-main.d3429c89.js.map",
+    "static/js/2.fafda29b.chunk.js": "/React-basic-to-do-app/static/js/2.fafda29b.chunk.js",
+    "static/js/2.fafda29b.chunk.js.map": "/React-basic-to-do-app/static/js/2.fafda29b.chunk.js.map",
+    "index.html": "/React-basic-to-do-app/index.html",
+    "precache-manifest.784b40e10eba6b02c147757f2959876f.js": "/React-basic-to-do-app/precache-manifest.784b40e10eba6b02c147757f2959876f.js",
+    "service-worker.js": "/React-basic-to-do-app/service-worker.js",
+    "static/css/main.a47d2e57.chunk.css.map": "/React-basic-to-do-app/static/css/main.a47d2e57.chunk.css.map",
+    "static/js/2.fafda29b.chunk.js.LICENSE.txt": "/React-basic-to-do-app/static/js/2.fafda29b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-basic-to-do-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3429c89.js",
+    "static/js/2.fafda29b.chunk.js",
+    "static/css/main.a47d2e57.chunk.css",
+    "static/js/main.d01eeb40.chunk.js"
+  ]
+}
